@@ -1,0 +1,4 @@
+#Wed Dec 30 02:51:05 BRT 2020
+base.0=/Users/iuriferreira/Documents/Projects/Carzapio/Carzapio-App-ReactNative/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
